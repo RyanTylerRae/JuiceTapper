@@ -128,12 +128,12 @@ public class GameEntry : MonoBehaviour
 
     private void OnGameOver()
     {
-        if(m_youLose != null && !m_youLose.activeSelf)
-        {
-            m_youLose.SetActive(true);
+        //if(m_youLose != null && !m_youLose.activeSelf)
+        //{
+        //    m_youLose.SetActive(true);
 
-            Destroy(m_player);
-        }
+        //    Destroy(m_player);
+        //}
     }
 
     private void TryCollectEmptyJuice(int counterIndex)

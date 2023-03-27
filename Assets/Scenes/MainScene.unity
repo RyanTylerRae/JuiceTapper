@@ -674,7 +674,7 @@ MonoBehaviour:
   m_customerPrefab: {fileID: 8047201446975136794, guid: b5779e289e055c54bb005ea3b7827752, type: 3}
   m_juicePrefab: {fileID: 197243173193108319, guid: 444394b3b527f5341be1683c08972732, type: 3}
   m_youLose: {fileID: 20244588}
-  m_difficultyIncreasePerWave: 0.1
+  m_difficultyIncreasePerWave: 0
   m_customersPerWaveMin: 4
   m_customersPerWaveMax: 8
   m_customerSpawnDelayMin: 0.75
